@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Aman Uddin Siyam (You can call me Sam 😃)  
-### 📊 Researcher | 🌱 Web Developer | 💻 Tech Enthusiast
+### 📊 Researcher | 🌱 ML Engineer | 💻 Tech Enthusiast
 
 ---
 
