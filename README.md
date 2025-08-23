@@ -14,7 +14,7 @@
 ### 👀 **About Me**
 - 🔭 **Current Focus**: Machine Learning, AI, Robotics, and Data Analysis.  
 - 🌟 **Tech Stack**: Python, Dart, Java, C++, and JavaScript.  
-- ☕ **Fun Fact**: I love watching movies and coffee.  
+- ☕ **Fun Fact**: I love watching movies and playing cricket.  
 - 🎯 **Dream**: To travel to every country in the world.  
 
 ---
