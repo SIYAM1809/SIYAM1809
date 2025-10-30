@@ -27,7 +27,7 @@
 ---
 
 ### 📬 **Get in Touch**
-- **Email**: [amanuddinsiyam@gmail.com](mailto:amanuddinsiyam@gmail.com)   
+- **Email**: [amansiyam44@gmail.com](mailto:amansiyam44@gmail.com)   
 - **GitHub**: [SIYAM1809](https://github.com/SIYAM1809)
 
 ---
