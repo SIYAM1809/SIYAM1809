@@ -95,7 +95,7 @@ I'm a CS candidate at IUBAT (Dhaka) with a dual focus — **ML research** and **
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SIYAM1809&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SIYAM1809&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAM1809&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
@@ -104,11 +104,14 @@ I'm a CS candidate at IUBAT (Dhaka) with a dual focus — **ML research** and **
 
 </div>
 
+
+</div>
+
 ---
 
 <div align="center">
 
-*Dhaka, Bangladesh · Open to remote internship & research collaboration*
+*Dhaka, Bangladesh · Open to full time or remote internship,job & research collaboration*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
 
